@@ -1,0 +1,12 @@
+<resources>
+    <string name="spinner_title">Выбор пункта</string>
+    <string name="app_name">SK Transport</string>
+    <string name="your_current_location">Your current location</string>
+    <string name="button_calculate">Order bus</string>
+    <string name="button_cancel_old">Cancel</string>
+    <string name="button_cancel">Cancel order</string>
+    <string name="your_destination">Your destination</string>
+    <string name="title_activity_maps">Map SK</string>
+    <string name="title_activity_maps3">Map3</string>
+    <string name="bus_wait_msg">Waiting for bus: </string>
+</resources>
